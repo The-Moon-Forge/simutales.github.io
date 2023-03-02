@@ -1,2 +1,1 @@
-# simulife_website
-The official website of "Simulife".
+# simutales_website
